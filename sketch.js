@@ -1,8 +1,8 @@
-var Engine = Matter.Engine,
+const Engine = Matter.Engine,
 
-var  Events = Matter.Events,
+const Events = Matter.Events,
 
-var  Bodies = Matter.Bodies; 
+ const  Bodies = Matter.Bodies; 
 
 var World = Matter.World,
 
